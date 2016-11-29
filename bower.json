@@ -1,0 +1,28 @@
+{
+  "name": "frontend-singularity",
+  "version": "0.0.1",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "license": "MIT",
+  "description": "Presentation slides for presentation about frontend technologies",
+  "authors": [
+    "Evgeny Gusev <bunopus@gmail.com>"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3",
+    "chartist": "^0.10.1",
+    "moment": "^2.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git repo"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
